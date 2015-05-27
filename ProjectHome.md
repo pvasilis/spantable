@@ -1,0 +1,1 @@
+This library adds spans to JTable, enabling a cell to span across an arbitrary number of rows and columns.  A spanned cell forms a rectangular region of the table covering several cells, only one of which is active. The other cells are hidden, and their contents are ignored.
